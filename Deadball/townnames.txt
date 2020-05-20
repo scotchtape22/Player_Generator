@@ -1,80 +1,94 @@
-Madison
-St.Clair 
-Milwaukee
-Chicago
-Champagn
-St.Paul
-Duluth
-Miami
-Detroit
-Seattle
-Brooklyn
-Montreal
-Vegas
-Vancouver
-Havanna
-Atlanta
-Toronto
-Mexico City
-Vera Cruz
-Austin
-South Beach
-Cleveland
-Toledo
-Hollywood
-Minneapolis
-Qubec City
-Portland
-Roswell
-Boston
-New Orleans
-San Francisco
-Chicago
-Denver
-Mackinac
-Cinncinati
-Buffalo
-Erie
-Traverse City
-Boulder
-Ann Arbor
-Houghton
-Marquette
-San Domingo
-Kingston
-Hamilton
-Durham
-Appleton
-Green Bay
-South Bend
-Rockford
-Hancock
-Sandusky
-Ontanogan
-L\'Anse
-Chassel
-Portage
-Superior
-Thunder Bay
-Charelston
-St.Croix
-Ashland
-Dresden
-Fargo
-Wausau
-Marshfield
-Rhinelander
-Grand Rapids
-Grand Haven
-Kalamazoo
-Calumet
-Manistique
-Gettysburg
-Allentown
-Worchester
-Lutsen
-Baraga
-Winston-Salem
-Wilks-Barre
-Greensboro
-Bowling Green
+Madison, WI
+St.Clair, MI
+Milwaukee, WI
+Chicago, IL
+Champagne, IL
+St.Paul, MN
+Duluth, MN
+Miami, FL
+Miami, OH
+Detroit, MI
+Seattle, WA
+Brooklyn, NY
+The Bronz, NY
+Manhatten, NY
+Queens, NY
+Montreal, QU
+Las Vegas, NV
+Vancouver, BC
+Havanna, Cuba
+Atlanta, GA
+Toronto, ON
+Mexico City, Mexico
+Vera Cruz, Mexico
+Austin, TX
+South Beach, CA
+Cleveland, OH
+Toledo, OH
+Hollywood, CA
+Minneapolis, MN
+Qubec City, QU
+Portland, OR
+Roswell, NM
+Boston, MA
+New Orleans, NO
+San Francisco, CA
+Denver, CO
+Mackinac, MI
+Cinncinati, OH
+Buffalo, NY
+Erie, PA
+Traverse City, MI
+Boulder, CO
+Ann Arbor, MI
+Houghton, MI
+Marquette, MI
+San Domingo, Dominican Republic
+Harlem, NY
+Kingston, ON
+Hamilton, ON
+Durham, NC
+Appleton, WI
+Green Bay, WI
+Pawnee, IN
+Eagleton, IN
+South Bend, IN
+Rockford, IL
+Hancock, MI
+Sandusky, OH
+Ontanogan, MI
+L\'Anse, MI
+Chassel, MI
+Portage, MI
+Superior, MI
+Thunder Bay, MI
+Des Moise, IA
+Charelston, SC
+St.Croix, MN
+Ashland, WI
+Dresden, ON
+Fargo, ND
+Grand Forks, ND
+Bismark, ND
+Souix Falls, SD
+Boise, ID
+Wausau, WI
+Marshfield, WI
+Rhinelander, WI
+Grand Rapids, MI
+Grand Haven, MI
+Kalamazoo, MI
+Calumet, MI
+Manistique, MI
+Gettysburg, PA
+Allentown, PA
+Worchester, MA
+Lutsen, MN
+Baraga, MI
+Winston-Salem, VI
+Wilks-Barre, PA
+Greensboro, SC
+Bowling Green, OH
+Mankato, MN
+Fairbanks, AK
+Anchorage, AK
