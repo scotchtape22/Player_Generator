@@ -34,10 +34,12 @@ while p <= fielders:
 	age = 20 + random.int(1,6)
 
 	bt = random.int(0,9)+random.int(0,9)+15
-	wt = random.int(0,9)+bt
+	wt = random.int(1,6)+random.int(1,6)+bt
 	era = "NA"
 
 	hand_roll = random.int(0,9)
+	
+	position_pref = random.choice(["Infield","Outfield"]
 
 	if hand_roll == 0:
 		hand = "switch"
@@ -64,7 +66,7 @@ while p <= fielders:
 		perk = "P++"
 
 
-	print(pf_name+";"+pl_name+";"+town+";"+bt+";"+wt+";"+era+";"+hand+";"+perk)
+	print(pf_name+";"+pl_name+";"+town+";"+hand+";"+position_pref+";"+bt+";"+wt+";"+era+";"+perk)
 	p = p + 1
 
 p = 0
@@ -76,8 +78,10 @@ while p <= pitcher:
 	age = 20 + random.int(1,6)
 
 	bt = random.int(0,9)+5
-	wt = random.int(0,9)+bt
-	
+	wt = random.int(1,6)+bt
+
+	position_pref = random.choice(["Starter","Reliever"]
+				      
 	era_roll = random.int(1,8)
 	if era_roll == 1:
 		era = "d12"
@@ -109,6 +113,8 @@ while p <= pitcher:
 	else:
 		perk = "CN+"
 
+	perk = perk+",P-"
 
-	print(pf_name+";"+pl_name+";"+town+";"+bt+";"+wt+";"+era+";"+hand+";"+perk)
+
+	print(pf_name+";"+pl_name+";"+town+";"+hand+";"+position_pref+";"+bt+";"+wt+";"+era+";"+perk)
 	p = p + 1
