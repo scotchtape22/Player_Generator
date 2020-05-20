@@ -92,3 +92,14 @@ Bowling Green, OH
 Mankato, MN
 Fairbanks, AK
 Anchorage, AK
+Shilo, TN
+Nashville, TN
+Memphis, TN
+Houston, TX
+Charlottesville, SC
+Tallahassee, FL
+Knoxville, TN
+Paducah, KY
+Willaimsburg, WV
+Cooperstown, NY
+Taos, NM
