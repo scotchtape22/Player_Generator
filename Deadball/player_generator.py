@@ -56,7 +56,7 @@ while p <= int(fielders):
 		perk = "S+"
 	elif perk_roll == 4:
 		perk = "S+"
-	elif perk_roll < 4 and perk_roll > 10:
+	elif perk_roll > 4 and perk_roll < 10:
 		perk = ""
 	elif perk_roll == 10:
 		perk = "P+"
