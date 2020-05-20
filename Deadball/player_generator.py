@@ -106,7 +106,7 @@ while p <= int(pitcher):
 		perk = "GB+"
 	elif perk_roll == 3:
 		perk = "K+"
-	elif perk_roll < 3 and perk_roll > 11:
+	elif perk_roll > 3 and perk_roll < 11:
 		perk = ""
 	elif perk_roll == 11:
 		perk = "ST+"
