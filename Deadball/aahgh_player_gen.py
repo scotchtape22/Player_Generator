@@ -28,7 +28,7 @@ p = 0
 while p <= int(players):
 	name = random.choice(f_name).rstrip()+" "+random.choice(l_name).rstrip()
 	region = random.choice(region)
-	age = str(20 + random.randint(1,6))
+	age = str(17 + random.randint(1,6))
 
 	# Personality
 	person_roll = random.randint(1,6)
