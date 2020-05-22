@@ -103,3 +103,11 @@ Paducah, KY
 Willaimsburg, WV
 Cooperstown, NY
 Taos, NM
+St.Louis, MO
+Kansas City, MO
+Kansas City, KS
+Omaha, NE
+Lincoln, NE
+Springfield, OR
+El Paso, TX
+Tuscaloosa, MS
