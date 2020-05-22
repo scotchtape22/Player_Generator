@@ -5,6 +5,7 @@ Moose
 Jonny
 Bob
 Bobby
+Hans
 Jimmy
 Ty
 Cy
@@ -15,6 +16,10 @@ Butch
 Dic
 Austin
 Gordon
+Blast
+Nuke
+Crash
+Nitro
 Archie
 William
 Sid
