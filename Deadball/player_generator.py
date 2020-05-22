@@ -63,7 +63,7 @@ while p <= int(fielders):
 	elif perk_roll == 11:
 		perk = "C+"
 	else:
-		perk = ""
+		perk = "NA"
 
 
 	print(pf_name+" "+pl_name+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
