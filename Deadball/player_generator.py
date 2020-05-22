@@ -35,7 +35,7 @@ while p <= int(fielders):
 
 	bt = random.randint(0,9)+random.randint(0,9)+15
 	wt = random.randint(1,6)+random.randint(1,6)+bt
-	era = "NA"
+	era = "-25"
 
 	hand_roll = random.randint(0,9)
 	
