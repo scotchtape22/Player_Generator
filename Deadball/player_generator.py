@@ -56,14 +56,14 @@ while p <= int(fielders):
 		perk = "S+"
 	elif perk_roll == 4:
 		perk = "D+"
-	elif perk_roll > 4 and perk_roll < 10:
-		perk = ""
+	elif perk_roll == 12:
+		perk = "P++"
 	elif perk_roll == 10:
 		perk = "P+"
 	elif perk_roll == 11:
 		perk = "C+"
 	else:
-		perk = "P++"
+		perk = ""
 
 
 	print(pf_name+" "+pl_name+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
