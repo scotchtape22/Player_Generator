@@ -114,3 +114,5 @@ Lincoln, NE
 Springfield, OR
 El Paso, TX
 Tuscaloosa, MS
+Frankfurt, KY
+Louisville, KY
