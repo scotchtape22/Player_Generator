@@ -28,8 +28,7 @@ for t in t_name:
 p = 0
 
 while p <= int(fielders):
-	pf_name = random.choice(f_name).rstrip()
-	pl_name = random.choice(l_name).rstrip()
+	my_name = random.choice(f_name).rstrip()+" "+random.choice(l_name).rstrip()
 	town = random.choice(t_name).rstrip()
 	age = 17 + random.randint(1,6)
 
@@ -66,14 +65,13 @@ while p <= int(fielders):
 		perk = "NA"
 
 
-	print(pf_name+" "+pl_name+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
+	print(name+";"+age+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
 	p = p + 1
 
 p = 0
 
 while p <= int(pitcher):
-	pf_name = random.choice(f_name).rstrip()
-	pl_name = random.choice(l_name).rstrip()
+	my_name = random.choice(f_name).rstrip()+" "+random.choice(l_name).rstrip()
 	town = random.choice(t_name).rstrip()
 	age = 17 + random.randint(1,6)
 
@@ -116,5 +114,5 @@ while p <= int(pitcher):
 	perk = perk+",P-"
 
 
-	print(pf_name+" "+pl_name+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+str(era)+";"+perk)
+	print(name+";"+age+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
 	p = p + 1
