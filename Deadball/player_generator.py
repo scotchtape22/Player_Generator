@@ -101,17 +101,17 @@ while p <= int(pitcher):
 	perk_roll = random.randint(1,6) + random.randint(1,6)
 
 	if perk_roll == 2:
-		perk = "GB+"
+		perk = "GB+,"
 	elif perk_roll == 3:
-		perk = "K+"
+		perk = "K+,"
 	elif perk_roll > 3 and perk_roll < 11:
 		perk = ""
 	elif perk_roll == 11:
-		perk = "ST+"
+		perk = "ST+,"
 	else:
-		perk = "CN+"
+		perk = "CN+,"
 
-	perk = perk+",P-"
+	perk = perk+"P-"
 
 
 	print(my_name+";"+str(age)+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
