@@ -65,7 +65,7 @@ while p <= int(fielders):
 		perk = "NA"
 
 
-	print(name+";"+age+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
+	print(my_name+";"+age+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
 	p = p + 1
 
 p = 0
@@ -114,5 +114,5 @@ while p <= int(pitcher):
 	perk = perk+",P-"
 
 
-	print(name+";"+age+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
+	print(my_name+";"+age+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+era+";"+perk)
 	p = p + 1
