@@ -19,6 +19,7 @@ Bolt
 Bort
 Butch
 Clark
+Casey
 Chris
 Charlie
 Christoff
@@ -45,12 +46,16 @@ Harvey
 Henry
 Isaac
 Izzy
+Ivan
+Ike
+Irene
 JB
 Jenny
 Jeremy
 Jimmy
 Jonny
 Jose
+Joe
 Joshua
 JT
 Juan
@@ -68,6 +73,8 @@ Maho
 Mai
 Maria
 Mario
+Mikey
+Mic
 Miho
 Missy
 Moose
