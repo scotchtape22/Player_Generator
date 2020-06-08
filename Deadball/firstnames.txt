@@ -34,6 +34,7 @@ Daisy
 Dash
 Dic
 Dirk
+Dewy
 Doug
 Dustin
 Duke
@@ -54,6 +55,7 @@ Gus
 Hank
 Hoot
 Hans
+Huey
 Harvey
 Henry
 Isaac
@@ -137,6 +139,7 @@ Skippy
 Soph
 Ted
 Tommy
+Tex
 Trigger
 Ty
 Xavier
