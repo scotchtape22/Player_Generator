@@ -3,6 +3,7 @@ Allegheny
 Alsance
 Arbor
 Ashes
+Archer
 Badr
 Barnes
 Bard
@@ -97,6 +98,9 @@ Kim
 King
 Knickerbocker
 Krieger
+Knight
+Jacobson
+Johnson
 Jones
 LaFlamme
 Lambert
@@ -142,6 +146,9 @@ Newport
 Nitro
 Norsemen
 Orr
+O'Malley
+O'Flynn
+O'Doogan
 Ortega
 Parades
 Parker
