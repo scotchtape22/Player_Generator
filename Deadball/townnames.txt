@@ -1,5 +1,7 @@
 Allentown, PA
+Amarillo, TX
 Anchorage, AK
+Abilene, TX
 Ann Arbor, MI
 Appleton, WI
 Ashland, WI
@@ -7,6 +9,7 @@ Atlanta, GA
 Austin, TX
 Baraga, MI
 Bismark, ND
+Bemidji, MN
 Boise, ID
 Boston, MA
 Boulder, CO
@@ -14,8 +17,10 @@ Bowling Green, OH
 Brooklyn, NY
 Buffalo, NY
 Calumet, MI
+Carlsbad, NM
 Cape Canaveral, FL
 Caracas, VZ
+Cedar Falls, IA
 Champagne, IL
 Charelston, SC
 Charlottesville, SC
@@ -25,20 +30,29 @@ Chicago, IL
 Chippewa Falls, WI
 Cinncinati, OH
 Cleveland, OH
+Columbus, OH
 Cooperstown, NY
 Denver, CO
+Dyersville, IA
 Des Moise, IA
 Detroit, MI
 Dresden, ON
+Davenport, IA
 Dubque, IA
 Duluth, MN
 Durham, NC
+Durango, CO
 Eagleton, IN
+Escanaba, MI
 El Paso, TX
 Erie, PA
+Eau Claire, WI
 Fairbanks, AK
 Fargo, ND
+Fort Wayne, IN
 Frankfurt, KY
+Flint, MI
+Gary, IN
 Galena, IL
 Gettysburg, PA
 Grand Forks, ND
@@ -56,17 +70,21 @@ Hollywood, CA
 Houghton, MI
 Houston, TX
 Huntsville, AL
+Indianapolis, IN
 Kalamazoo, MI
 Kansas City, KS
 Kansas City, MO
 Kingston, ON
 Knoxville, TN
+Lafayette, IN
 L\'Anse, MI
 Las Vegas, NV
 Letterkenny, ON
 Lincoln, NE
 Louisville, KY
 Lutsen, MN
+Juarez, MX
+Joliet, IL
 Mackinac, MI
 Madison, WI
 Manhatten, NY
@@ -84,35 +102,49 @@ Montreal, QU
 Nashville, TN
 New Orleans, NO
 Omaha, NE
+Oklahoma City, OK
 Ontanogan, MI
 Orlando, FL
 Paducah, KY
 Pawnee, IN
+Plymouth, MA
 Portage, MI
 Portland, OR
+Peoria, IL
+Pheonix, AZ
 Promontory, UT
+Port-Au-Prince, HT
+Puerto Plata, DR
 Qubec City, QU
 Queens, NY
+Rapid City, SD
 Rhinelander, WI
 Rockford, IL
 Roswell, NM
+Roanoke, VA
 Salt Lake City, UT
+Santa Fe, NM
 San Domingo, DR
 San Francisco, CA
 Sandusky, OH
 Seattle, WA
 Shilo, TN
+Sarnia, ON
 Sioux City, SD
+Sault Ste. Marie, ON
+Sault Ste. Marie, MI
+Silver City, NM
 Sioux Falls, IA
 South Beach, CA
 South Bend, IN
 Springfield, OR
+Springfield, IL
 St.Clair, MI
+St.Cloud
 St.Croix, MN
 St.Louis, MO
 St.Paul, MN
-Superior, MI
-Tallahasse, FL
+Superior, WI
 Tallahassee, FL
 Taos, NM
 The Bronz, NY
@@ -121,15 +153,21 @@ Toledo, OH
 Toronto, ON
 Traverse City, MI
 Trinidad, CO
+Topeka, KA
 Tiajuana, MX
+Tuscon, AZ
 Tuscaloosa, MS
+Tombstone, AZ
 Vancouver, BC
 Vera Cruz, Mexico
 Wabash, IN
 Wallawalla, WA
+Wisconsin Dells, WI
 Wausau, WI
 Wilks-Barre, PA
 Willaimsburg, WV
 Windsor, ON
+Witchita, KS
 Winston-Salem, VI
 Worchester, MA
+Wolf Creek Pass, CO
