@@ -1,4 +1,6 @@
 Aaron
+Ash
+Annis
 Abby
 Abner
 AJ
@@ -32,6 +34,7 @@ Dic
 Dirk
 Doug
 Dustin
+Duke
 Eli
 Ezikial
 Flint
@@ -58,6 +61,7 @@ Jose
 Joe
 Joshua
 JT
+Johan
 Juan
 Justin
 Kevin
