@@ -61,6 +61,7 @@ Mordecai
 Nitro
 Nooskie
 Nuke
+Pablo
 Paul
 Peter
 Phil
@@ -83,3 +84,4 @@ Trigger
 Ty
 Wanye
 William
+Rosalita
