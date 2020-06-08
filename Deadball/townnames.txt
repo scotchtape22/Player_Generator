@@ -1,133 +1,135 @@
-Madison, WI
-St.Clair, MI
-Milwaukee, WI
-Chicago, IL
+Allentown, PA
+Anchorage, AK
+Ann Arbor, MI
+Appleton, WI
+Ashland, WI
+Atlanta, GA
+Austin, TX
+Baraga, MI
+Bismark, ND
+Boise, ID
+Boston, MA
+Boulder, CO
+Bowling Green, OH
+Brooklyn, NY
+Buffalo, NY
+Calumet, MI
+Cape Canaveral, FL
+Caracas, VZ
 Champagne, IL
-St.Paul, MN
+Charelston, SC
+Charlottesville, SC
+Chassel, MI
+Chattanooga, TN
+Chicago, IL
+Chippewa Falls, WI
+Cinncinati, OH
+Cleveland, OH
+Cooperstown, NY
+Denver, CO
+Des Moise, IA
+Detroit, MI
+Dresden, ON
+Dubque, IA
 Duluth, MN
+Durham, NC
+Eagleton, IN
+El Paso, TX
+Erie, PA
+Fairbanks, AK
+Fargo, ND
+Frankfurt, KY
+Galena, IL
+Gettysburg, PA
+Grand Forks, ND
+Grand Haven, MI
+Grand Rapids, MI
+Green Bay, WI
+Greenfield Village, MI
+Greensboro, SC
+Hamilton, ON
+Hancock, MI
+Harlem, NY
+Hartford, CT
+Havanna, Cuba
+Hollywood, CA
+Houghton, MI
+Houston, TX
+Huntsville, AL
+Kalamazoo, MI
+Kansas City, KS
+Kansas City, MO
+Kingston, ON
+Knoxville, TN
+L\'Anse, MI
+Las Vegas, NV
+Letterkenny, ON
+Lincoln, NE
+Louisville, KY
+Lutsen, MN
+Mackinac, MI
+Madison, WI
+Manhatten, NY
+Manistique, MI
+Mankato, MN
+Marquette, MI
+Marshfield, WI
+Memphis, TN
+Mexico City, MX
 Miami, FL
 Miami, OH
-Detroit, MI
-Seattle, WA
-Brooklyn, NY
-The Bronz, NY
-Manhatten, NY
-Queens, NY
-Montreal, QU
-Las Vegas, NV
-Vancouver, BC
-Havanna, Cuba
-Atlanta, GA
-Toronto, ON
-Mexico City, Mexico
-Vera Cruz, Mexico
-Austin, TX
-South Beach, CA
-Cleveland, OH
-Toledo, OH
-Hollywood, CA
+Milwaukee, WI
 Minneapolis, MN
-Huntsville, AL
-Orlando, FL
-Cape Canaveral, FL
-Qubec City, QU
-Portland, OR
-Roswell, NM
-Boston, MA
-New Orleans, NO
-San Francisco, CA
-Denver, CO
-Mackinac, MI
-Cinncinati, OH
-Buffalo, NY
-Erie, PA
-Traverse City, MI
-Boulder, CO
-Ann Arbor, MI
-Houghton, MI
-Marquette, MI
-San Domingo, Dominican Republic
-Harlem, NY
-Kingston, ON
-Hamilton, ON
-Durham, NC
-Appleton, WI
-Green Bay, WI
-Pawnee, IN
-Eagleton, IN
-South Bend, IN
-Rockford, IL
-Hancock, MI
-Sandusky, OH
-Ontanogan, MI
-L\'Anse, MI
-Chassel, MI
-Portage, MI
-Superior, MI
-Thunder Bay, MI
-Des Moise, IA
-Charelston, SC
-St.Croix, MN
-Ashland, WI
-Dresden, ON
-Fargo, ND
-Grand Forks, ND
-Bismark, ND
-Souix Falls, SD
-Boise, ID
-Wausau, WI
-Marshfield, WI
-Rhinelander, WI
-Grand Rapids, MI
-Grand Haven, MI
-Kalamazoo, MI
-Calumet, MI
-Manistique, MI
-Gettysburg, PA
-Allentown, PA
-Worchester, MA
-Lutsen, MN
-Baraga, MI
-Winston-Salem, VI
-Wilks-Barre, PA
-Greensboro, SC
-Bowling Green, OH
-Mankato, MN
-Fairbanks, AK
-Anchorage, AK
-Shilo, TN
+Montreal, QU
 Nashville, TN
-Memphis, TN
-Houston, TX
-Charlottesville, SC
-Tallahassee, FL
-Knoxville, TN
-Paducah, KY
-Willaimsburg, WV
-Cooperstown, NY
-Taos, NM
-St.Louis, MO
-Kansas City, MO
-Kansas City, KS
+New Orleans, NO
 Omaha, NE
-Lincoln, NE
-Springfield, OR
-El Paso, TX
-Tuscaloosa, MS
-Frankfurt, KY
-Louisville, KY
-Salt Lake City, UT
+Ontanogan, MI
+Orlando, FL
+Paducah, KY
+Pawnee, IN
+Portage, MI
+Portland, OR
 Promontory, UT
-Caracas, VZ
-Trinidad, CO
-Wabash, IN
-Chattanooga, TN
-Hartford, CT
-Dubque, IA
-Galena, IL
-Greenfield Village, MI
-Wallawalla, WA
-Windsor, ON
-Letterkenny, ON
-Chippewa Falls, WI
+Qubec City, QU
+Queens, NY
+Rhinelander, WI
+Rockford, IL
+Roswell, NM
+Salt Lake City, UT
+San Domingo, DR
+San Francisco, CA
+Sandusky, OH
+Seattle, WA
+Shilo, TN
+Sioux City, SD
+Sioux Falls, IA
+South Beach, CA
+South Bend, IN
+Springfield, OR
+St.Clair, MI
+St.Croix, MN
+St.Louis, MO
+St.Paul, MN
+Superior, MI
 Tallahasse, FL
+Tallahassee, FL
+Taos, NM
+The Bronz, NY
+Thunder Bay, MI
+Toledo, OH
+Toronto, ON
+Traverse City, MI
+Trinidad, CO
+Tiajuana, MX
+Tuscaloosa, MS
+Vancouver, BC
+Vera Cruz, Mexico
+Wabash, IN
+Wallawalla, WA
+Wausau, WI
+Wilks-Barre, PA
+Willaimsburg, WV
+Windsor, ON
+Winston-Salem, VI
+Worchester, MA
