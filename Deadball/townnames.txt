@@ -1,15 +1,15 @@
+Abilene, TX
 Allentown, PA
 Amarillo, TX
 Anchorage, AK
-Abilene, TX
 Ann Arbor, MI
 Appleton, WI
 Ashland, WI
 Atlanta, GA
 Austin, TX
 Baraga, MI
-Bismark, ND
 Bemidji, MN
+Bismark, ND
 Boise, ID
 Boston, MA
 Boulder, CO
@@ -17,9 +17,9 @@ Bowling Green, OH
 Brooklyn, NY
 Buffalo, NY
 Calumet, MI
-Carlsbad, NM
 Cape Canaveral, FL
 Caracas, VZ
+Carlsbad, NM
 Cedar Falls, IA
 Champagne, IL
 Charelston, SC
@@ -32,28 +32,28 @@ Cinncinati, OH
 Cleveland, OH
 Columbus, OH
 Cooperstown, NY
+Davenport, IA
 Denver, CO
-Dyersville, IA
 Des Moise, IA
 Detroit, MI
 Dresden, ON
-Davenport, IA
 Dubque, IA
 Duluth, MN
-Durham, NC
 Durango, CO
+Durham, NC
+Dyersville, IA
 Eagleton, IN
-Escanaba, MI
+Eau Claire, WI
 El Paso, TX
 Erie, PA
-Eau Claire, WI
+Escanaba, MI
 Fairbanks, AK
 Fargo, ND
+Flint, MI
 Fort Wayne, IN
 Frankfurt, KY
-Flint, MI
-Gary, IN
 Galena, IL
+Gary, IN
 Gettysburg, PA
 Grand Forks, ND
 Grand Haven, MI
@@ -71,20 +71,20 @@ Houghton, MI
 Houston, TX
 Huntsville, AL
 Indianapolis, IN
+Joliet, IL
+Juarez, MX
 Kalamazoo, MI
 Kansas City, KS
 Kansas City, MO
 Kingston, ON
 Knoxville, TN
-Lafayette, IN
 L\'Anse, MI
+Lafayette, IN
 Las Vegas, NV
 Letterkenny, ON
 Lincoln, NE
 Louisville, KY
 Lutsen, MN
-Juarez, MX
-Joliet, IL
 Mackinac, MI
 Madison, WI
 Manhatten, NY
@@ -101,44 +101,44 @@ Minneapolis, MN
 Montreal, QU
 Nashville, TN
 New Orleans, NO
-Omaha, NE
 Oklahoma City, OK
+Omaha, NE
 Ontanogan, MI
 Orlando, FL
 Paducah, KY
 Pawnee, IN
-Plymouth, MA
-Portage, MI
-Portland, OR
 Peoria, IL
 Pheonix, AZ
-Promontory, UT
+Plymouth, MA
 Port-Au-Prince, HT
+Portage, MI
+Portland, OR
+Promontory, UT
 Puerto Plata, DR
 Qubec City, QU
 Queens, NY
 Rapid City, SD
 Rhinelander, WI
+Roanoke, VA
 Rockford, IL
 Roswell, NM
-Roanoke, VA
 Salt Lake City, UT
-Santa Fe, NM
 San Domingo, DR
 San Francisco, CA
 Sandusky, OH
+Santa Fe, NM
+Sarnia, ON
+Sault Ste. Marie, MI
+Sault Ste. Marie, ON
 Seattle, WA
 Shilo, TN
-Sarnia, ON
-Sioux City, SD
-Sault Ste. Marie, ON
-Sault Ste. Marie, MI
 Silver City, NM
+Sioux City, SD
 Sioux Falls, IA
 South Beach, CA
 South Bend, IN
-Springfield, OR
 Springfield, IL
+Springfield, OR
 St.Clair, MI
 St.Cloud, MN
 St.Croix, MN
@@ -149,25 +149,26 @@ Tallahassee, FL
 Taos, NM
 The Bronz, NY
 Thunder Bay, MI
+Tiajuana, MX
 Toledo, OH
+Tombstone, AZ
+Topeka, KA
 Toronto, ON
 Traverse City, MI
 Trinidad, CO
-Topeka, KA
-Tiajuana, MX
-Tuscon, AZ
+Tulsa, OK
 Tuscaloosa, MS
-Tombstone, AZ
+Tuscon, AZ
 Vancouver, BC
 Vera Cruz, Mexico
 Wabash, IN
 Wallawalla, WA
-Wisconsin Dells, WI
 Wausau, WI
 Wilks-Barre, PA
 Willaimsburg, WV
 Windsor, ON
-Witchita, KS
 Winston-Salem, VI
-Worchester, MA
+Wisconsin Dells, WI
+Witchita, KS
 Wolf Creek Pass, CO
+Worchester, MA
