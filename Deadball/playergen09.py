@@ -38,14 +38,10 @@ while p <= int(fielders):
 
 	hand_roll = random.randint(0,9)
 	
-	position_pref = random.choice(["Infield","Outfield"])
+	position = random.choice(["Infield","Outfield"])
 
-	if hand_roll == 0:
-		hand = "Switch"
-	elif hand_roll > 0 and hand_roll < 7:
-		hand = "Right"
-	else:
-		hand = "Left"
+	hand = random.choice(["Switch","Right","Right","Right","Right","Right","Right","Left","Left","Left"])
+
 
 	perk_roll = random.randint(1,6) + random.randint(1,6)
 
@@ -65,7 +61,7 @@ while p <= int(fielders):
 		perk = "NA"
 
 
-	print(my_name+";"+str(age)+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+pd+";"+perk)
+	print(my_name+";"+str(age)+";"+town+";"+hand+";"+position+";"+str(bt)+";"+str(wt)+";"+pd+";"+perk)
 	p = p + 1
 
 p = 0
@@ -78,31 +74,12 @@ while p <= int(pitcher):
 	bt = random.randint(0,9)+10
 	wt = random.randint(1,6)+bt
 
-	position_pref = random.choice(["Starter","Reliever"])
+	position = "Pitcher"
 				      
-	pd_roll = random.randint(1,8)
-	if pd_roll == 1:
-		pd = "d20"
-	elif pd_roll == 2:
-		pd = "d12"
-	elif pd_roll == 3:
-		pd = "d8"
-	elif pd_roll == 4 or pd_roll == 5:
-		pd = "d6"
-	elif pd_roll == 6:
-		pd = "d4"
-	elif pd_roll == 7:
-		pd = "0"
-	else:
-		pd = "-d4"
+	pd = random.choice(["d20","d12","d8","d6","d6","d4","0","-d4"])
 
-	hand_roll = random.randint(0,9)
-	if hand_roll == 0:
-		hand = "Left"
-	elif hand_roll > 0 and hand_roll < 7:
-		hand = "Right"
-	else:
-		hand = "Left"
+	hand = random.choice(["Left","Right","Right","Right","Right","Right","Right","Left","Left","Left"])
+
 
 	perk_roll = random.randint(1,6) + random.randint(1,6)
 
@@ -120,5 +97,5 @@ while p <= int(pitcher):
 	perk = perk+"P-"
 
 
-	print(my_name+";"+str(age)+";"+town+";"+hand+";"+position_pref+";"+str(bt)+";"+str(wt)+";"+pd+";"+perk)
+	print(my_name+";"+str(age)+";"+town+";"+hand+";"+position+";"+str(bt)+";"+str(wt)+";"+pd+";"+perk)
 	p = p + 1
