@@ -74,6 +74,7 @@ Greenberg
 Guido
 Haddix
 Hall
+Hancock
 Hardcheese
 Hatchet
 Hargett
@@ -96,6 +97,7 @@ Kim
 King
 Knickerbocker
 Krieger
+Jones
 LaFlamme
 Lambert
 LaThrill
@@ -125,7 +127,10 @@ McTravis
 Mercer
 Metropolous
 Moffett
+McDowell
 Monongahela
+Morris
+Morrison
 Mooney
 Moray
 Morris
