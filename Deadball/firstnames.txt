@@ -34,6 +34,9 @@ Flint
 Gary
 Gordon
 Guy
+Gustav
+Gus
+Hank
 Hans
 Harvey
 Henry
@@ -85,6 +88,9 @@ Phinneas
 Quincy
 Qubert
 Red
+Raul
+Ralph
+Ross
 Remy
 Rigo
 Ro
@@ -96,7 +102,7 @@ Sarge
 Scotty
 Sam
 Sid
-Skip
+Skippy
 Soph
 Ted
 Tommy
