@@ -68,7 +68,7 @@ while int(t) <= int(team_count):
 		bt = random.randint(0,9)+13
 		wt = random.randint(1,6)+bt
 
-		pd = random.choice("d20","d12","d8","d6","d6","d4","0","-d4")
+		pd = random.choice(["d20","d12","d8","d6","d6","d4","0","-d4"])
 		hand = random.choice(["Left","Right","Right","Right","Right","Right","Right","Left","Left","Left"])
 
 		perk_roll = random.randint(1,6) + random.randint(1,6)
@@ -128,7 +128,7 @@ while int(t) <= int(team_count):
 			wt = random.randint(1,6)+bt
 			hand = random.choice(["Left","Right","Right","Right","Right","Right","Right","Left","Left","Left"])
 
-			pd = random.choice("d8","d6","d6","d4","0","-d4","-d4","-d8")
+			pd = random.choice(["d8","d6","d6","d4","0","-d4","-d4","-d8"])
 
 			perk_roll = random.randint(1,6) + random.randint(1,6)
 
