@@ -7,19 +7,19 @@ import random
 fielders = input('Player Count: ')
 pitcher = input('Pitcher Count: ')
 
-fn_data = open("firstnames.txt","r")
+fn_data = open("../Name_Data/firstnames.txt","r")
 f_name = fn_data.readlines()
 fn_data.close()
 for l in f_name:
 	l = l.rstrip()
 
-ln_data = open("lastnames.txt","r")
+ln_data = open("../Name_Data/lastnames.txt","r")
 l_name = ln_data.readlines()
 ln_data.close()
 for l in l_name:
 	l = l.rstrip()
 
-tn_data = open("townnames.txt","r")
+tn_data = open("../Name_Data/townnames.txt","r")
 t_name = tn_data.readlines()
 tn_data.close()
 for t in t_name:
