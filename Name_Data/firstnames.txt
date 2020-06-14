@@ -101,6 +101,7 @@ Isabelle
 Israel
 Ivan
 Izzy
+Jamal
 J.K.
 J.P.
 Jaime
@@ -136,6 +137,7 @@ Kyle
 Kylie
 LaFrey
 Laila
+Lamar
 Leo
 Lila
 Logan
@@ -165,6 +167,7 @@ Missy
 Molly
 Momolu
 Monon
+Mookie
 Moose
 Mordecai
 Nathaniel
@@ -229,6 +232,7 @@ Tex
 Thomas
 Thrump
 Tim
+Tito
 Tommy
 Toyuwa
 Travis
