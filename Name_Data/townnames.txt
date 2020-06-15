@@ -1,6 +1,7 @@
 Abilene, TX
 Allentown, PA
 Amarillo, TX
+Amsterdam, NE
 Anchorage, AK
 Ann Arbor, MI
 Appleton, WI
@@ -8,7 +9,9 @@ Ashland, WI
 Atlanta, GA
 Austin, TX
 Baraga, MI
+Barcelona, ES
 Bemidji, MN
+Berlin, DE
 Big Lake, TX
 Bismark, ND
 Boise, ID
@@ -16,6 +19,7 @@ Boston, MA
 Boulder, CO
 Bowling Green, OH
 Brooklyn, NY
+Brussels, BE
 Buffalo, NY
 Calumet, MI
 Cape Canaveral, FL
@@ -27,10 +31,13 @@ Charelston, SC
 Charlottesville, SC
 Chassel, MI
 Chattanooga, TN
+Chiba Lotte, JP
 Chicago, IL
 Chippewa Falls, WI
+Chunichi, JP
 Cinncinati, OH
 Cleveland, OH
+Cologne, DE
 Columbus, OH
 Cooperstown, NY
 Davenport, IA
@@ -53,6 +60,7 @@ Fargo, ND
 Flint, MI
 Fort Wayne, IN
 Frankfurt, KY
+Fukuoka, JP
 Galena, IL
 Gary, IN
 Gettysburg, PA
@@ -62,11 +70,14 @@ Grand Rapids, MI
 Green Bay, WI
 Greenfield Village, MI
 Greensboro, SC
+Hamburg, DE
 Hamilton, ON
 Hancock, MI
+Hanshin, JP
 Harlem, NY
 Hartford, CT
-Havanna, Cuba
+Havanna, CB
+Hiroshima, JP
 Hollywood, CA
 Houghton, MI
 Houston, TX
@@ -84,29 +95,42 @@ Lafayette, IN
 Las Vegas, NV
 Letterkenny, ON
 Lincoln, NE
+Liverpool, EN
+London, EN
 Louisville, KY
 Lutsen, MN
 Mackinac, MI
 Madison, WI
+Madrid, ES
+Manchester, EN
 Manhatten, NY
 Manistique, MI
 Mankato, MN
 Marquette, MI
+Marseille, FR
 Marshfield, WI
 Memphis, TN
+Mexico City
 Mexico City, MX
 Miami, FL
 Miami, OH
+Milan, IT
 Milwaukee, WI
 Minneapolis, MN
 Montreal, QU
+Moscow, RU
+Munich, DE
 Nashville, TN
 New Orleans, NO
+Nottingham, EN
 Oklahoma City, OK
 Omaha, NE
 Ontanogan, MI
 Orlando, FL
+Orleans, FR
+Osaka, JP
 Paducah, KY
+Paris, FR
 Pawnee, IN
 Peoria, IL
 Pheonix, AZ
@@ -119,19 +143,25 @@ Puerto Plata, DR
 Qubec City, QU
 Queens, NY
 Rapid City, SD
+Reims, FR
+Reno, NV
 Rhinelander, WI
 Roanoke, VA
 Rockford, IL
+Roma, IT
 Roswell, NM
+Saitama, JP
 Salt Lake City, UT
 San Domingo, DR
 San Francisco, CA
 Sandusky, OH
 Santa Fe, NM
+Sapporo, JP
 Sarnia, ON
 Sault Ste. Marie, MI
 Sault Ste. Marie, ON
 Seattle, WA
+Sendai, JP
 Shilo, TN
 Silver City, NM
 Sioux City, SD
@@ -145,12 +175,15 @@ St.Cloud, MN
 St.Croix, MN
 St.Louis, MO
 St.Paul, MN
+St.Petersburg, RU
 Superior, WI
 Tallahassee, FL
 Taos, NM
 The Bronx, NY
 Thunder Bay, MI
 Tiajuana, MX
+Tokyo, JP
+Toledo, ES
 Toledo, OH
 Tombstone, AZ
 Topeka, KA
@@ -161,9 +194,10 @@ Tulsa, OK
 Tuscaloosa, MS
 Tuscon, AZ
 Vancouver, BC
-Vera Cruz, Mexico
+Vera Cruz, MX
 Wabash, IN
 Wallawalla, WA
+Warsaw, PO
 Wausau, WI
 Wilks-Barre, PA
 Willaimsburg, WV
@@ -173,3 +207,5 @@ Wisconsin Dells, WI
 Witchita, KS
 Wolf Creek Pass, CO
 Worchester, MA
+Yokohama, JP
+Yomiuri, JP
