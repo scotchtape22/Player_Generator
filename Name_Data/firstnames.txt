@@ -17,6 +17,7 @@ Archie
 Ash
 Audrey
 Austin
+Barney
 Becky
 Beef
 Ben
@@ -114,6 +115,7 @@ Jeremy
 Jerry
 Jethro
 Jimmy
+Jill
 Joe
 Johan
 John
@@ -198,6 +200,7 @@ Raymond
 Reagan
 Red
 Remy
+Rex
 Rigo
 Ro
 Rodrigo
