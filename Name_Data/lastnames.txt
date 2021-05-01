@@ -82,11 +82,13 @@ Everhart
 Finlandia
 Fishell
 Flake
+Flexy
 Fortier
 Franklin
 Frenchman
 Fry
 Fu
+Funk
 Fuhs
 Gallegos
 Gamble
@@ -110,6 +112,9 @@ Hancock
 Hardcheese
 Hargett
 Harrison
+Harlot
+Hullahan
+Hubrick
 Hatchet
 Hawk
 Hay
@@ -254,6 +259,12 @@ Sanford
 Schawlow
 Schwartz
 Scruggs
+Strohs
+Lienies
+Miller
+Brewster
+Shoemacher
+Hamilton
 Shah
 Sharpe
 Sherpa
