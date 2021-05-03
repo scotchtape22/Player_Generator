@@ -84,6 +84,7 @@ Fishell
 Flake
 Flexy
 Fortier
+Fortuna
 Franklin
 Frenchman
 Fry
@@ -177,7 +178,7 @@ Manta
 Maple
 Mariucci
 Martin
-Martin
+Marino
 Martinez
 Mattox
 Maynard
