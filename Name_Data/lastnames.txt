@@ -1,3 +1,4 @@
+Alfreeda
 Abney
 Adoyo
 Allegheny
@@ -61,6 +62,7 @@ Crampton
 Crase
 Danger
 Dawley
+Darmore
 Dawson
 Deadeye
 Deadlift
@@ -74,7 +76,7 @@ Dragasakis
 Dresden
 Duluth
 Ellis
-Ellis
+Ellewood
 English
 Essen
 Evergreen
@@ -83,6 +85,7 @@ Finlandia
 Fishell
 Flake
 Flexy
+Ontillo
 Fortier
 Fortuna
 Franklin
@@ -98,6 +101,7 @@ Gardiner
 Garibay
 Gebre
 Gezhri
+Sus
 Gheradi
 Godar
 Gould
@@ -130,6 +134,7 @@ Hirsch
 Holcomb
 Horton
 Hoth
+Hotdogs
 House
 Huddleston
 Hudson
@@ -335,7 +340,13 @@ Wyld
 Yeboah
 Yocemento
 York
+Yatia
+Yamamoto
 Young
 Zak
 Zodd
 Zuniga
+Zeal
+Zutina
+Omila
+Swordman
